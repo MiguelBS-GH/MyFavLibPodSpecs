@@ -1,0 +1,2 @@
+# MyFavLibPodSpecs
+Podspecs of MyFavLib
